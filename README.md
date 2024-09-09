@@ -1,16 +1,16 @@
-## Hi there 👋
+## 😄 ABOUT ME 
 
-<!--
-**ZoeyPortfolio/ZoeyPortfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Huyun Li, you can also call me Zoey 👋. I attended university at the University of Toronto St. George, double majored in Economics and Statistics and minored in Mathematics. I am passionate about data analysis. 
 
-Here are some ideas to get you started:
+## 🔭 I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on projects from the volunteer group: GLOCAL Foundation of Canada.
+
+## 🌱 I’m currently learning 
+
+PowerBI and Machine learning with Python from Coursera
+
+## Skills
+● Microsoft - Excel, SQL
+● Google - Google Analytics 4, BigQuery, Google Spreadsheet
+● Analysis - R, Tableau, SAS
