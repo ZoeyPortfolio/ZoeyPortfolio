@@ -11,6 +11,6 @@ I'm currently working on projects from the volunteer group: GLOCAL Foundation of
 PowerBI and Machine learning with Python from Coursera
 
 ## Skills
-● Microsoft - Excel, SQL
-● Google - Google Analytics 4, BigQuery, Google Spreadsheet
+● Microsoft - Excel, SQL\
+● Google - Google Analytics 4, BigQuery, Google Spreadsheet\
 ● Analysis - R, Tableau, SAS
