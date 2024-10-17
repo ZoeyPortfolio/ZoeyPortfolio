@@ -8,9 +8,9 @@ I'm currently working on projects from the volunteer group: GLOCAL Foundation of
 
 ## 🌱 I’m currently learning 
 
-PowerBI and Machine learning with Python from Coursera
+Machine learning with Python from Coursera
 
 ## Skills
-● Microsoft - Excel, SQL\
+● Microsoft - Excel, SQL, PowerBI\
 ● Google - Google Analytics 4, BigQuery, Google Spreadsheet\
 ● Analysis - R, Tableau, SAS
