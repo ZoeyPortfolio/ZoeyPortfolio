@@ -14,4 +14,4 @@ I'm currently working on projects from the volunteer group: GLOCAL Foundation of
 ## Skills
 ● Microsoft - Excel, SQL, PowerBI\
 ● Google - Google Analytics 4, BigQuery, Google Spreadsheet\
-● Analysis - R, Tableau, SAS
+● Analysis - R, Tableau, SAS, Python
