@@ -1,10 +1,11 @@
 ## 😄 ABOUT ME 
 
-Hi, I'm Huyun Li, you can also call me Zoey 👋. I graduated from the University of Toronto St. George, double majored in Economics and Statistics, and minored in Mathematics. Currently, I am studying at the University of Hong Kong for my Master of Business Analytics. I am passionate about data analysis. 
+Hi, I'm Huyun Li, you can also call me Zoey 👋. I'm currently studying at Hong Kong University in Master of Business Analytics. I graduated from the University of Toronto St. George, double majored in Economics and Statistics, and minored in Mathematics. Currently, I am studying at the University of Hong Kong for my Master of Business Analytics. I am passionate about data analysis. 
 
-## 🔭 I'm currently working on
+## 🔭 Volunteer Projects
 
-I'm currently working on projects from the volunteer group: GLOCAL Foundation of Canada.
+Volunteer group: GLOCAL Foundation of Canada.
+I worked on Power BI project to analyze the Canadian housing market.
 
 ## 🌱 Certificates
 ● SAS Certified Professional: Advanced Programming Using SAS 9.4\
@@ -14,4 +15,5 @@ I'm currently working on projects from the volunteer group: GLOCAL Foundation of
 ## Skills
 ● Microsoft - Excel, SQL, PowerBI\
 ● Google - Google Analytics 4, BigQuery, Google Spreadsheet\
-● Analysis - R, Tableau, SAS, Python
+● Analysis - R, Tableau, SAS, Python\
+● Spatial Analysis - ArcGIS online
