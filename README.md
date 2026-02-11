@@ -1,6 +1,6 @@
 ## 😄 ABOUT ME 
 
-Hi, I'm Huyun Li, you can also call me Zoey 👋. I'm currently studying at Hong Kong University in Master of Business Analytics. I graduated from the University of Toronto St. George, double majored in Economics and Statistics, and minored in Mathematics. Currently, I am studying at the University of Hong Kong for my Master of Business Analytics. I am passionate about data analysis. 
+Hi, I'm Huyun Li, you can also call me Zoey 👋. I graduated from the University of Toronto St. George, double majored in Economics and Statistics, and minored in Mathematics. Currently, I am studying at the University of Hong Kong for my Master of Business Analytics. I am passionate about data analysis. 
 
 ## 🔭 Volunteer Projects
 
